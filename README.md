@@ -1,1 +1,1 @@
-# Detecting-strabismus
+# Program is detecting strabismus
